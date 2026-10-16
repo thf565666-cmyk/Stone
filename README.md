@@ -1,2 +1,2 @@
 # Stone
-Skill
+Create photographic concept visuals for retail stores and products in context. Stone Design plans plausible store layouts and operational circulation, adapts lighting and atmosphere to the store category, format and verified brand references, and checks the product against its source image. Critical changes to product structure or details cause a failed review. Generative imagery cannot guarantee pixel-identical products; exact preservation requires an authorized source-pixel composite with a compatible viewpoint. The plugin uses image tools available in the host and does not supply an independent model or engineering certification.
